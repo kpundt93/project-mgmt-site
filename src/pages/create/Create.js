@@ -17,11 +17,11 @@ const categories = [
 ]
 
 export default function Create() {
+  const history = useHistory();
   const { addDocument, response } = useFirestore('projects');
+  const { user } = useAuthContext();
   const { documents } = useCollection('users');
   const [users, setUsers] = useState([]);
-  const { user } = useAuthContext();
-  const { history } = useHistory();
 
   // form field values
   const [name, setName] = useState('');
