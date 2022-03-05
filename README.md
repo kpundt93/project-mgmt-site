@@ -15,7 +15,7 @@
 - GitHub
 
 ## Description
-Project management web application created by watching the Net Ninja tutorial found [here](https://www.udemy.com/share/105lrq3@YrF7WbfG3l2xaqtvzy421RsdwgtiZhIJRTrHUgN0tpBZEcL6sglngvWPSeRl9UCk4Q==/). 
+Project management web application created by watching the Net Ninja tutorial found [here](https://www.udemy.com/share/105lrq3@YrF7WbfG3l2xaqtvzy421RsdwgtiZhIJRTrHUgN0tpBZEcL6sglngvWPSeRl9UCk4Q==/). Once a user creates an account, they can create new projects and assign them to others. Users can also leave comments on projects and delete projects that they created.
 
 ## Setup/Installation Requirements
 - Open the terminal on your desktop
