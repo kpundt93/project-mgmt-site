@@ -1,3 +1,33 @@
+# The Dojo
+
+#### By: _**Katie Pundt**_
+
+#### _A simple project management site._
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React
+- npm
+- Firebase/Firestore
+- git
+- GitHub
+
+## Description
+Project management web application created by watching the Net Ninja tutorial found [here](https://www.udemy.com/share/105lrq3@YrF7WbfG3l2xaqtvzy421RsdwgtiZhIJRTrHUgN0tpBZEcL6sglngvWPSeRl9UCk4Q==/). 
+
+## Setup/Installation Requirements
+- Open the terminal on your desktop
+- Once in the terminal, use it to navigate to your desktop folder
+- Once inside your desktop folder, use the command `git clone https://github.com/kpundt93/project-mgmt-site.git`
+- After cloning the project, navigate into it using the command `cd project-mgmt-site`
+- Use the command `git remote` to confirm the creation of the new local repository
+- Install project dependencies by running the command `npm install`
+- If you receive errors in the terminal, try running `npm install` again, sometimes npm can be finicky
+- Then run the command `npm run start` to start the project server and view the application (use ctrl + c to exit the server in the terminal)
+- Open the project with the code editor of your choice
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
